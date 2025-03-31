@@ -47,7 +47,7 @@ public class Category implements Serializable{
 		return category;
 	}
 	/**
-	 * @param categort the Category to set
+	 * @param category the Category to set
 	 */
 	public void setCategory(String Category) {
 		this.category = Category;
